@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jagadish22002.github.io/resources-3m4awv/sitemap.xml
